@@ -11,7 +11,7 @@ The dataset will be released after the paper is accepted.
 This repo is the official implementation of "**COARSE-TO-FINE COVID-19 SEGMENTATION VIA VISION-LANGUAGE ALIGNMENT**" 
 
 
-![image](https://github.com/HUANGLIZI/C2FVLIMG/C2FVL.png)
+![image](https://github.com/HUANGLIZI/C2FVL/IMG/C2FVL.png)
 
 ## Requirements
 
