@@ -99,7 +99,7 @@ You can get the Dice and IoU scores and the visualization results.
 ### 4. Results
 
 | Dataset    | 	  Dice (%) | IoU (%) |
-| ---------- | ------------------- | -------- | ------- |
+| ---------- | ------------------- | -------- |
 | QaTa-COV19 | 83.40    | 74.62   |
 | MosMedData+    | 74.56      | 61.15  |
 
