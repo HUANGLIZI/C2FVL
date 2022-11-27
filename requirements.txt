@@ -8,10 +8,8 @@ backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
 bpemb==0.3.3
-certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
 cffi==1.15.1
 charset-normalizer==2.1.0
-clip @ git+https://github.com/openai/CLIP.git@d50d76daa670286dd6cacf3bcd80b5e4823fc8e1
 contextlib2==21.6.0
 cycler==0.11.0
 debugpy==1.6.3
@@ -126,4 +124,3 @@ webencodings==0.5.1
 websocket-client==1.4.1
 widgetsnbextension==4.0.3
 xlrd==1.2.0
-zipp==3.8.1
