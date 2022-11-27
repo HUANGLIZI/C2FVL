@@ -5,9 +5,6 @@ The model code and readme documentation will come soon!
 The dataset will be released after the paper is accepted.
 
 
-# C2FVL
-
-
 This repo is the official implementation of "**COARSE-TO-FINE COVID-19 SEGMENTATION VIA VISION-LANGUAGE ALIGNMENT**" 
 
 
