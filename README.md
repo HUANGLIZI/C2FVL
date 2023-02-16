@@ -2,7 +2,7 @@
 
 Congratulations to our C2FVL has been accepted by IEEE International Conference on Acoustics, Speech and Signal Processing 2023 (ICASSP 2023)!
 
-The model code and readme documentation will come soon!
+The model code and readme documentation will come soon.
 
 This repo is the official implementation of "**COARSE-TO-FINE COVID-19 SEGMENTATION VIA VISION-LANGUAGE ALIGNMENT**" 
 
