@@ -26,7 +26,7 @@ The original data can be downloaded in following links:
 
 * MosMedData+ Dataset - [Link (Original)](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset)
 
-  *(Note: The text annotation of QaTa-COVID dataset will be released in the future.)*
+  *(Note: The text annotation of QaTa-COVID dataset will be released in the future. And you can email to me for the datasets)*
 
 #### 1.2. Format Preparation
 
