@@ -114,3 +114,13 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 * [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
 
 
+# Citation
+
+```bash
+@article{shan2022c2fvl,
+  title={Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment},
+  author={Shan, Dandan and Li, Zihan and Chen, Wentao and Li, Qingde and Tian, Jie and Hong, Qingqi},
+  journal={arXiv preprint arXiv:2303.00279},
+  year={2023}
+}
+```
