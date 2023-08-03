@@ -2,8 +2,9 @@
 
 Congratulations to our C2FVL has been accepted by IEEE International Conference on Acoustics, Speech and Signal Processing 2023 (ICASSP 2023)!
 
-This repo is the official implementation of "**COARSE-TO-FINE COVID-19 SEGMENTATION VIA VISION-LANGUAGE ALIGNMENT**" [Arxiv](https://arxiv.org/abs/2303.00279). You can also refer to our another work [LViT](https://github.com/HUANGLIZI/LViT), which is basically built by the same Codebase.
+This repo is the official implementation of "**COARSE-TO-FINE COVID-19 SEGMENTATION VIA VISION-LANGUAGE ALIGNMENT**" [Arxiv](https://arxiv.org/abs/2303.00279). 
 
+You can also refer to our another work [LViT](https://github.com/HUANGLIZI/LViT), which is basically built by the same Codebase.
 
 ![image](https://github.com/HUANGLIZI/C2FVL/blob/main/IMG/C2FVL.png)
 
