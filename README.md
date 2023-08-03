@@ -122,10 +122,12 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 # Citation
 
 ```bash
-@article{shan2022c2fvl,
+@inproceedings{shan2023coarse,
   title={Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment},
   author={Shan, Dandan and Li, Zihan and Chen, Wentao and Li, Qingde and Tian, Jie and Hong, Qingqi},
-  journal={arXiv preprint arXiv:2303.00279},
-  year={2023}
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
 }
 ```
