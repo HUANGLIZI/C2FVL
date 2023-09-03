@@ -25,9 +25,9 @@ The original data can be downloaded in following links:
 
 * MosMedData+ Dataset - [Link (Original)](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset)
 
-  *Note: The text annotation of QaTa-COVID train datasets [download link](https://uillinoisedu-my.sharepoint.com/:x:/g/personal/zl111_illinois_edu/EabJGhBy-m1Oi-27rM2UU8QBKmClek-ygChtn-wWQfSgEA?e=0X6VWh).
-  The text annotation of QaTa-COVID val dataset [download link](https://uillinoisedu-my.sharepoint.com/:x:/g/personal/zl111_illinois_edu/EXN4n1B_rQRDjjF0_ElXMAQBkOF-EhnFO48Fqb6tkEH_Sg?e=E9yota).
-  The text annotation of QaTa-COVID test dataset [download link](https://uillinoisedu-my.sharepoint.com/:x:/g/personal/zl111_illinois_edu/EX1mXji_8LdPs_Ivhr5IfK4BkZ6xGkbkG0lriymTl2ffJw?e=aaV9dV).*
+  *Note: The text annotation of QaTa-COVID train and val datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDkm5jsTw5dX_RpuRr?e=uaZq6W).
+  The partition of train set and val set of QaTa-COV19 dataset [download link](https://1drv.ms/u/s!AihndoV8PhTDgt82Do5kj33mUee33g?e=kzWl8y).
+  The text annotation of QaTa-COVID test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDkj1vvvLt2jDCHqiM?e=954uDF).*
   
   *(Note: The text annotation of MosMedData+ dataset will be released in the future. And you can email to me for the datasets)*
 
