@@ -8,7 +8,7 @@ import numpy as np
 import random
 from torch.backends import cudnn
 import Config
-from Load_Dataset import RandomGenerator, ValGenerator, ImageToImage2D, LV2D
+from Load_Dataset import RandomGenerator, ValGenerator, ImageToImage2D
 from nets.C2FVL import C2FVL
 from torch.utils.data import DataLoader
 import logging
