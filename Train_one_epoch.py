@@ -82,7 +82,7 @@ def train_one_epoch(loader, model, criterion, optimizer, writer, epoch, lr_sched
         train_iou = iou_on_batch(masks,preds)
 
         batch_time = time.time() - end
-        if epoch % config.vis_frequency == 0 and logging_mode is 'Val':
+        if epoch % config.vis_frequency == 0 and logging_mode == 'Val':
             vis_path = config.visualize_path+str(epoch)+'/'
             if not os.path.isdir(vis_path):
                 os.makedirs(vis_path)
