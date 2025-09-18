@@ -31,7 +31,9 @@ The original data can be downloaded in following links:
   
   *The text annotation of QaTa-COVID test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguFndDhGZ_w09BwQCw?e=1CrgtK).*
   
-  *(Note: The text annotation of MosMedData+ dataset will be released in the future. And you can email to me for the datasets)*
+  *(Note: The text annotation of MosMedData+ train dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguIIKCRfYB9Z0NL8Dw?e=8rj6rY).
+The text annotation of MosMedData+ val dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMGsQAAAAAAtAgZiRQFYfsAjw).
+The text annotation of MosMedData+ test dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMHsQAAAAAAdHkwXMxGlgU9Tg).)*
 
 #### 1.2. Format Preparation
 
